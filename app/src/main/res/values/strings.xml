@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ChessDetectorV2</string>
+    <string name="take_photo">take photo</string>
+    <string name="start_capture">start capture</string>
+    <string name="title_activity_evaluation">EvaluationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="modelli">
+        <item>YoloV5n</item>
+        <item>EfficientDetLite</item>
+        <item>MobilenetV2</item>
+    </string-array>
+
+    <string-array name="colonne">
+        <item>-</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+    </string-array>
+    <string-array name="traverse">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>
