@@ -10,3 +10,4 @@ I problemi affiorati e risolti durante lo svolgimento sono stati principalmente 
   - individuare, classificare e posizionare i pezzi all'interno della scacchiera
 
 ## Demo 
+<img src="https://github.com/gabrielecorsi97/progetto_SistemiDigitaliM/blob/master/images/demo_relazione_cut.gif.gif"  height="400">  
