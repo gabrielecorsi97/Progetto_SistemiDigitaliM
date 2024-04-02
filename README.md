@@ -10,7 +10,7 @@ I problemi affiorati e risolti durante lo svolgimento sono stati principalmente 
   - individuare, classificare e posizionare i pezzi all'interno della scacchiera (risolto con l'utilizzo di una rete neurale convoluzionale, YoloV5)
 
 ## Demo 
-<img src="https://github.com/gabrielecorsi97/progetto_SistemiDigitaliM/blob/master/images/demo_relazione_cut.gif.gif"  height="400">  
+<img src="https://github.com/gabrielecorsi97/progetto_SistemiDigitaliM/blob/master/images/demo_relazione_cut.gif.gif"  height="700">  
 
 
 ## Individuazione scacchiera
